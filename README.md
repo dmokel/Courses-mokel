@@ -8,19 +8,19 @@
 
 #### 创新与商业
 
-[Innovation and Business](.\docs\InnovationAndBusiness.md)
+[Innovation and Business](./docs/InnovationAndBusiness.md)
 
 
 
 #### 服务端开发
 
-[Server-side programming](.\docs\Server-sideProgramming.md)
+[Server-side programming](./docs/Server-sideProgramming.md)
 
 
 
 #### 客户端开发
 
-[Client-side programming](.\docs\Client-sideProgramming.md)
+[Client-side programming](./docs/Client-sideProgramming.md)
 
 
 
